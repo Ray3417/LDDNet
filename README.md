@@ -1,7 +1,7 @@
 ## Long Range Diffusion for Weakly Camouflaged Object Segmentation
 This project provides the code and results for 'Long Range Diffusion for Weakly Camouflaged Object Segmentation'
 > Authors:
-> Rui Wang
+> Rui Wang,
 > Caijuan Shi, 
 > Weixiang Gao,
 > Changyu Duan,
